@@ -3,13 +3,14 @@
 
 ### 👋 Hi, I’m ***cyryll***, a full stack software engineer.
 -
-- 👀 INTERESTS
+<br>👀 1.  INTERESTS
 - 
-- 🌱 WHAT IM CURRENTLY LEARNING
+<br>🌱 2.  WHAT IM CURRENTLY LEARNING
 - 
-💞️ COLLABORATION
+<br>💞️ 3.  COLLABORATION
 - I’m looking to collaborate on ...
 
-📫 CONTACT ME
--  How to reach me : Email:cyrylpaull@gmail.com
+<br><br> 4.   CONTACT ME
+| Reach me on |[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrylpaull@gmail.com) ||
+|--|--|--|
 
