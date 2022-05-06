@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @cyryll
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ML/AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Email:cyrylpaull@gmail.com
+| [![Names](https://img.shields.io/badge/cyryl-<COLOR>.svg)](https://shields.io/) | ![](https://komarev.com/ghpvc/?username=cyryll&color=blue) | ![](https://img.shields.io/github/followers/cyryll) | ![](https://img.shields.io/github/stars/cyryll?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) |
+--| --| --| --|
 
-<!---
-cyryll/cyryll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👋 Hi, I’m ***cyryll***, a full stack software engineer.
+-
+- 👀 INTERESTS
+- 
+- 🌱 WHAT IM CURRENTLY LEARNING
+- 
+💞️ COLLABORATION
+- I’m looking to collaborate on ...
+
+📫 CONTACT ME
+-  How to reach me : Email:cyrylpaull@gmail.com
+
