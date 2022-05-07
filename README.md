@@ -3,11 +3,13 @@
 
 ### 👋 Hi, I’m ***cyryll***, a full stack software engineer.
 -
-<br>👀 1.  INTERESTS
+<br><br>👀 1.  INTERESTS
 - 
-<br>🌱 2.  WHAT IM CURRENTLY LEARNING
+
+<br><br>🌱 2.  WHAT IM CURRENTLY LEARNING
 - 
-<br>💞️ 3.  COLLABORATION
+
+<br><br>💞️ 3.  COLLABORATION
 - I’m looking to collaborate on ...
 
 <br><br> 4.   CONTACT ME
