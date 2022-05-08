@@ -16,3 +16,13 @@
 | Reach me on |[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrylpaull@gmail.com) ||
 |--|--|--|
 
+<br> 
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cyryll&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cyryll&langs_count=5&theme=tokyonight)]()
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cyryll)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
