@@ -13,8 +13,8 @@
 - I’m looking to collaborate on ...
 
 <br><br> 4.   CONTACT ME
-| Reach me on |[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrylpaull@gmail.com) ||
-|--|--|--|
+| Reach me on |[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrylpaull@gmail.com) |
+|--|--|
 
 <br> 
 
