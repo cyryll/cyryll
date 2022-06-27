@@ -20,9 +20,10 @@
 
 <br><br>🌱 2.  WHAT IM CURRENTLY LEARNING
 
-    - Advancing ReactNative
+    - Advancing ReactNative | Reat
     - Apache Kafka, GraphQL and Red Panda.
     - Advanced software testing.
+    - Soluton Architecture
 
 
 <br><br> 4.   CONTACT ME
