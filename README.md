@@ -25,12 +25,12 @@
     - Advanced software testing.
 
 
-<br><br>📞 4. **CONTACT ME**
+<br><br>📞 3. **CONTACT ME**
 | Reach me on |[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyrylpaull@gmail.com)|
 |--|--|
 
 
-<br><br>💬 5. **ASK ME ABOUT**<br>
+<br><br>💬 4. **ASK ME ABOUT**<br>
 |1|Programming/Scripting/Markup Languages|![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)|![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)|![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu%20bash&logoColor=white)|![Shell Scripting](https://img.shields.io/badge/-Shell%20scripting-green?style=for-the-badge)
 |-|-|-|-|-|-|-|
 |||![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|![CSS#](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)||||
