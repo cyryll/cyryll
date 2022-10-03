@@ -1,7 +1,7 @@
 | [![Names](https://img.shields.io/badge/cyryl-<COLOR>.svg)](https://shields.io/) | ![](https://komarev.com/ghpvc/?username=cyryll&color=blue) | ![](https://img.shields.io/github/followers/cyryll) | ![](https://img.shields.io/github/stars/cyryll?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) |
 --| --| --| --|
 
-### 👋 Hi, I’m ***Cyryl***, a Full stack software engineer with experience with several software architechtures and trends.
+### 👋 Hi, I’m ***Cyryl***, a Full stack software engineer with experience in several software architechtures and trends.
 
 
 <br><br>👀 1. **INTERESTS**
